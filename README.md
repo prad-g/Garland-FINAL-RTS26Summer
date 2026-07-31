@@ -11,7 +11,7 @@
 
 ## Portfolio links
 
-- GitHub Pages: https://prad-g.github.io/Garland-FINAL-RTS26Summer/
+- GitHub Pages: https://github.com/prad-g/Garland-FINAL-RTS26Summer
 - Wokwi: https://wokwi.com/projects/471017682208757761
 - Demo video: https://youtu.be/WcYueR0EY3Y
 
